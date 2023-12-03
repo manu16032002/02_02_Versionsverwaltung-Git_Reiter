@@ -1,0 +1,10 @@
+Computer Name: DESKTOP-AD2TT0N
+Date of Test: 2023-12-03 21:17:43
+Bubble Sort Time: 11.256016 seconds
+Quick Sort Time: 0.020452 seconds
+
+Computer Name: DESKTOP-AD2TT0N
+Date of Test: 2023-12-03 21:18:23
+Bubble Sort Time: 6.171298 seconds
+Quick Sort Time: 0.023428 seconds
+
